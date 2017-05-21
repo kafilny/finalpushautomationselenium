@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Amazon" />
+        <module name="Bestbuy" />
+        <module name="Ebay" />
         <module name="Generic" />
         <module name="NYP" />
         <module name="Upscalelearning" />
@@ -14,6 +16,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.8" />
+      <module name="Bestbuy" target="1.8" />
+      <module name="Ebay" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />

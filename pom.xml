@@ -13,6 +13,8 @@
         <module>Amazon</module>
         <module>Upscalelearning</module>
         <module>NYP</module>
+        <module>Bestbuy</module>
+        <module>Ebay</module>
     </modules>
 
     <dependencyManagement>

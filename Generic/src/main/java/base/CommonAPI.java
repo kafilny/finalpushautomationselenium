@@ -128,14 +128,14 @@ public class CommonAPI {
     public WebDriver getLocalDriver(@Optional("mac") String OS,String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Generic/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Win")){
                 System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver.exe");
             }
             driver = new ChromeDriver();
         }else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
-                System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Generic/driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
                 System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver.exe");
             }
@@ -150,10 +150,10 @@ public class CommonAPI {
     }
     public WebDriver getLocalGridDriver(String browserName) {
         if (browserName.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver");
+            System.setProperty("webdriver.chrome.driver", "/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Generic/driver/chromedriver");
             driver = new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("firefox")) {
-            System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver");
+            System.setProperty("webdriver.gecko.driver", "/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Generic/driver/geckodriver");
             driver = new FirefoxDriver();
         } else if (browserName.equalsIgnoreCase("ie")) {
             System.setProperty("webdriver.ie.driver", "../Generic/browser-driver/IEDriverServer.exe");
@@ -183,7 +183,7 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp(){
-        System.out.println("It has been called");
+       System.out.println("It has been called");
         driver.quit();
     }
     public void clickByCss(String locator) {
