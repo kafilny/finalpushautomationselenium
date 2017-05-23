@@ -2,49 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="browserstack">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/data/file1.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/driver/chromedriver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/giftpac/Giftpage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/homescreen/HomeScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/products/ProductsPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/src/test/java/giftideas/GiftIdeaspage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/Ebay.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/dailydeal/Dailydealpage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/data_sourse/DatabaseDataReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/ebaysignin/SigninPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/search/DropDownMenuPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/search/ItemsToBeSearched.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/main/java/search/SearchPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/dailydeal/Dailydil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/searchitems/DropDownMenuSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/searchitems/SearchItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/searchitems/SearchItemsWithDatabaseDataSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/signin_and_registrar/Registrar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/java/signin_and_registrar/SignIn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/cnn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CHomePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/entertainmentpage/EntertainmentPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/healthpage/HealthPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/moneypage/MoneyPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/opinionpage/OpinionPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/politicspage/PoliticsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/sportspage/SportsPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/stylepage/StylePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/techpage/TechPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/travelpage/TravelPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/us/Uspage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/videopage/VideoPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/vrpage/VrPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/main/java/worldpage/WorldPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/entertainment/Entertainment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/health/Health.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/money/Money.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/opinion/Opinion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/politics/Politics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/sports/Sports.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/style/Style.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/tech/Tech.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/travel/Travel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/us/Us.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/video/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/vr/Vr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/java/world/World.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnn/src/test/resources/cnnTestRunner.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/Extent-Report/ExtentReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.16.2017-13:25PM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.16.2017-15:49PM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.16.2017-18:08PM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.16.2017-18:44PM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.18.2017-21:57PM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/screenshots/url (05.19.2017-10:36AM).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/giftpac/Giftpage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/homescreen/HomeScreen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/products/ProductsPage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/src/test/java/giftideas/GiftIdeaspage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/classes/giftpac/Giftpage$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/classes/giftpac/Giftpage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/classes/homescreen/HomeScreen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/classes/products/ProductsPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/test-classes/Bestbuytestrunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bestbuy/target/test-classes/giftideas/GiftIdeaspage.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/utility/reader/ConnectDB.class" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/reader/ConnectDB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/classes/homepage/HomePage.class" afterPath="$PROJECT_DIR$/NYP/target/classes/homepage/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/classes/metro/MetroPage.class" afterPath="$PROJECT_DIR$/NYP/target/classes/metro/MetroPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/classes/news/NewsPage$1.class" afterPath="$PROJECT_DIR$/NYP/target/classes/news/NewsPage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/classes/news/NewsPage.class" afterPath="$PROJECT_DIR$/NYP/target/classes/news/NewsPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/test-classes/metro/Metro.class" afterPath="$PROJECT_DIR$/NYP/target/test-classes/metro/Metro.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/test-classes/news/News.class" afterPath="$PROJECT_DIR$/NYP/target/test-classes/news/News.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnMac.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnMac.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/reader/ConnectDB.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/reader/ConnectDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/NYP/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" afterPath="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" afterPath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,6 +70,7 @@
     <ignored path="$PROJECT_DIR$/NYP/target/" />
     <ignored path="$PROJECT_DIR$/Bestbuy/target/" />
     <ignored path="$PROJECT_DIR$/Ebay/target/" />
+    <ignored path="$PROJECT_DIR$/cnn/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,53 +84,49 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DropDownMenuPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/DropDownMenuPage.java">
+      <file leaf-file-name="cnnTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/cnnTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reader/DataReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="379" column="0" lean-forward="false" selection-start-line="379" selection-start-column="0" selection-end-line="379" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ebaytestrunner.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Us.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/java/us/Us.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Uspage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/main/java/us/Uspage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TechPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/main/java/techpage/TechPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ebaytestrunner.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -124,53 +136,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bestbuy/pom.xml">
+      <file leaf-file-name="Health.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/java/health/Health.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bestbuytestrunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmazonTestRunnerOnMac.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NYPTestRunner.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemsToBeSearched.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/ItemsToBeSearched.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/main/java/healthpage/HealthPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Money.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/java/money/Money.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tech.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/java/tech/Tech.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sports.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/java/sports/Sports.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,43 +212,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/home/SearchItems.java" />
-        <option value="$PROJECT_DIR$/NYP/pom.xml" />
-        <option value="$PROJECT_DIR$/NYP/src/test/resources/AmazonTestRunnerOnMac.xml" />
-        <option value="$PROJECT_DIR$/NYP/src/main/java/metro/MetroPage.java" />
-        <option value="$PROJECT_DIR$/NYP/src/test/java/news/News.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ExtentReport/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/NYP/src/main/java/homepage/HomePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ExtentReport/DataReader.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/ItemsToBeSearched.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/search/ItemsToBeSearched.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ExtentReport/reader/DataReader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reader/DataReader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reporting/TestLogger.java" />
-        <option value="$PROJECT_DIR$/NYP/src/main/java/log/ApplicationLog.java" />
-        <option value="$PROJECT_DIR$/Generic/src/MySql.properties" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/searchitems/SearchItemsWithDatabaseDataSource.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/datasource/DatabaseDataReader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/searchitems/DropDownMenuSearch.java" />
-        <option value="$PROJECT_DIR$/NYP/src/test/java/metro/Metro.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ApplicationLog.java" />
-        <option value="$PROJECT_DIR$/NYP/src/main/java/news/NewsPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/searchitems/SearchItems.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/main/java/search/DropDownMenuPage.java" />
-        <option value="$PROJECT_DIR$/Bestbuy/pom.xml" />
-        <option value="$PROJECT_DIR$/Bestbuy/src/main/java/products/ProductsPage.java" />
-        <option value="$PROJECT_DIR$/Bestbuy/src/main/java/homescreen/HomeScreen.java" />
-        <option value="$PROJECT_DIR$/Bestbuy/src/main/java/giftpac/Giftpage.java" />
-        <option value="$PROJECT_DIR$/Bestbuy/src/test/java/giftideas/GiftIdeaspage.java" />
-        <option value="$PROJECT_DIR$/Ebay/pom.xml" />
         <option value="$PROJECT_DIR$/Ebay/src/main/java/dailydeal/Dailydealpage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Ebay/src/test/java/dailydeal/Dailydil.java" />
         <option value="$PROJECT_DIR$/Ebay/src/main/java/ebaysignin/SigninPage.java" />
         <option value="$PROJECT_DIR$/Ebay/src/test/java/signin_and_registrar/SignIn.java" />
@@ -244,9 +224,45 @@
         <option value="$PROJECT_DIR$/Ebay/src/main/java/search/DropDownMenuPage.java" />
         <option value="$PROJECT_DIR$/Ebay/src/test/java/searchitems/SearchItems.java" />
         <option value="$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml" />
-        <option value="$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
         <option value="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Bestbuy/src/test/java/giftideas/GiftIdeaspage.java" />
+        <option value="$PROJECT_DIR$/Bestbuy/src/main/java/pagesection/AllPageSection.java" />
+        <option value="$PROJECT_DIR$/Bestbuy/src/test/java/pagesection/AllpagesectionTest.java" />
+        <option value="$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
+        <option value="$PROJECT_DIR$/cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/us/uspage.java" />
+        <option value="$PROJECT_DIR$/Bestbuy/src/test/java/testsomething/Testany.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/world/World.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/politicspage/PoliticsPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/opinionpage/OpinionPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/moneypage/MoneyPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/politics/Politics.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/opinion/Opinion.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/travel/TravelPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/worldpage/WorldPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/vrpage/VrPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/videopage/VideoPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/travelpage/TravelPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/techpage/TechPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/stylepage/StylePage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/sportspage/SportsPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/healthpage/HealthPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/entertainmentpage/EntertainmentPage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/vr/Vr.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/video/Video.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/travel/Travel.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/style/Style.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/health/Health.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/entertainment/Entertainment.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/money/Money.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CHomePage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/sports/Sports.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/tech/Tech.java" />
+        <option value="$PROJECT_DIR$/cnn/src/main/java/us/Uspage.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/java/us/Us.java" />
+        <option value="$PROJECT_DIR$/cnn/src/test/resources/cnnTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -314,10 +330,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="223" />
-    <option name="y" value="106" />
+    <option name="x" value="213" />
+    <option name="y" value="48" />
     <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -335,6 +351,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -357,531 +374,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NYP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homepage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utility" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utility" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="driver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ebay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ebay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ebay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ebay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ebay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extent-Report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bestbuy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bestbuy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bestbuy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="automation-march2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bestbuy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="Upscalelearning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -962,14 +455,51 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automation-march2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automation-march2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Amazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -979,21 +509,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Ebay/src/test/java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Ebay/src/test" />
-      <recent name="$PROJECT_DIR$/Bestbuy/src/test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="datasource" />
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="data_sourse" />
-      <recent name="datasource" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ebay/src/test/java" />
@@ -1001,6 +523,15 @@
       <recent name="$PROJECT_DIR$/Ebay" />
       <recent name="$PROJECT_DIR$/Generic/driver" />
       <recent name="C:\Users\PIIT_NYA\IdeaProjects\automation-march2017\Amazon\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_sourse" />
+      <recent name="datasource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cnn/src/test" />
+      <recent name="$PROJECT_DIR$/Ebay/src/test" />
+      <recent name="$PROJECT_DIR$/Bestbuy/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1015,46 +546,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml">
-    <configuration default="false" name="SearchItems.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="searchitems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml">
+    <configuration default="false" name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Amazon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="searchitems" />
-      <option name="MAIN_CLASS_NAME" value="searchitems.SearchItems" />
-      <option name="METHOD_NAME" value="search" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Ebay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -1077,78 +575,106 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="Dailydil.Giftcards" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dailydeal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Ebay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="dailydeal" />
-      <option name="MAIN_CLASS_NAME" value="dailydeal.Dailydil" />
-      <option name="METHOD_NAME" value="Giftcards" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="SignIn.gotosignin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="signin_and_registrar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Ebay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="signin_and_registrar" />
-      <option name="MAIN_CLASS_NAME" value="signin_and_registrar.SignIn" />
-      <option name="METHOD_NAME" value="gotosignin" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Bestbuy/src/test/resources/Bestbuytestrunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Amazon" />
+      <module name="Bestbuy" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="GiftIdeaspage.clickonproducts" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="giftideas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Bestbuy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="giftideas" />
+      <option name="MAIN_CLASS_NAME" value="giftideas.GiftIdeaspage" />
+      <option name="METHOD_NAME" value="clickonproducts" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="GiftIdeaspage.url" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="giftideas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Bestbuy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="giftideas" />
+      <option name="MAIN_CLASS_NAME" value="giftideas.GiftIdeaspage" />
+      <option name="METHOD_NAME" value="url" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cnn/src/test/resources/cnnTestRunner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -1581,19 +1107,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.SearchItems.search" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.Dailydil.Giftcards" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.SignIn.gotosignin" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.GiftIdeaspage.clickonproducts" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.GiftIdeaspage.url" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.SearchItems.search" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.SignIn.gotosignin" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.Dailydil.Giftcards" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Bestbuy/src/test/resources/Bestbuytestrunner.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.GiftIdeaspage.url" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.GiftIdeaspage.clickonproducts" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG./Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -1618,7 +1144,8 @@
       <workItem from="1495272621660" duration="6578000" />
       <workItem from="1495286749670" duration="6000" />
       <workItem from="1495316784345" duration="302000" />
-      <workItem from="1495402365933" duration="629000" />
+      <workItem from="1495402365933" duration="1543000" />
+      <workItem from="1495469235419" duration="32833000" />
     </task>
     <task id="LOCAL-00001" summary="browserstack">
       <created>1494790830934</created>
@@ -1631,60 +1158,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchItems_search - 2017.05.20 at 07h 07m 56s.xml">
-      <configuration name="SearchItems.search" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 05m 10s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Amazon_src_test_resources_AmazonTestRunnerOnMac_xml - 2017.05.20 at 07h 03m 43s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 09m 00s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Amazon_src_test_resources_AmazonTestRunnerOnMac_xml - 2017.05.20 at 07h 06m 19s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 12m 30s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 07h 31m 25s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 13m 12s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 07h 39m 07s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 13m 52s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 07h 53m 08s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 18m 04s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 07h 59m 49s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 21m 03s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 08h 58m 28s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 21m 25s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.20 at 17h 48m 17s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 39m 19s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_Ebay_src_test_resources_Ebaytestrunner_xml - 2017.05.21 at 17h 36m 00s.xml">
-      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/Ebay/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    <history-entry file="_Users_kafiluddin_Developer_updetdatadriven_automation-march2017_cnn_src_test_resources_cnnTestRunner_xml - 2017.05.23 at 02h 46m 19s.xml">
+      <configuration name="/Users/kafiluddin/Developer/updetdatadriven/automation-march2017/cnn/src/test/resources/cnnTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43589000" />
+    <option name="totallyTimeSpent" value="77336000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="223" y="106" width="1440" height="813" extended-state="1" />
-    <editor active="true" />
+    <frame x="213" y="48" width="1440" height="814" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32548475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07569444" sideWeight="0.49577168" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28432733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28393352" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3597997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19957082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1707,7 +1233,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07569444" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07569444" sideWeight="0.49577168" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1716,18 +1242,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259362" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30566534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28393352" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2776618" sideWeight="0.50422835" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19957082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1806,8 +1332,14 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Bestbuy/src/test/java/pagesection/AllpagesectionTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="61" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1816,227 +1348,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/By.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/collections/Lists.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/Reporter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reporting/ApplicationLog.java">
+    <entry file="file://$PROJECT_DIR$/Bestbuy/src/main/java/pagesection/AllPageSection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/screenshots/dealoftheday (05.17.2017-17:04PM).png" />
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/dailydeal/Dailydealpage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/dailydeal/Dailydil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="19" column="117" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/screenshots/Registrarpage (05.19.2017-12:13PM).png" />
-    <entry file="file://$PROJECT_DIR$/Ebay/screenshots/Registrarpage (05.19.2017-12:07PM).png" />
-    <entry file="file://$PROJECT_DIR$/Ebay/screenshots/gotosignin (05.19.2017-12:13PM).png" />
-    <entry file="file://$PROJECT_DIR$/Ebay/screenshots/dealoftheday (05.17.2017-17:07PM).png" />
-    <entry file="file://$PROJECT_DIR$/Bestbuy/screenshots/url (05.16.2017-13:25PM).png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/TestAmazonHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/ebaysignin/SigninPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/signin_and_registrar/Registrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/signin_and_registrar/SignIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/datasource/DatabaseDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reader/ConnectDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1668">
-          <caret line="41" column="62" lean-forward="false" selection-start-line="41" selection-start-column="62" selection-end-line="41" selection-end-column="62" />
-          <folding>
-            <marker date="1495273255000" expanded="true" signature="2223:2237" ph="select * fro... missingValue" />
-            <marker date="1495273255000" expanded="true" signature="2810:2840" ph="select * fro... DataToBeSearched" />
-            <marker date="1495273255000" expanded="true" signature="4500:4554" ph="INSERT INTO missingValue... " />
-            <marker date="1495273255000" expanded="true" signature="5392:5446" ph="INSERT INTO missingValue... " />
-            <marker date="1495273255000" expanded="true" signature="6849:6903" ph="INSERT INTO missingValue... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.4.0/selenium-firefox-driver-3.4.0.jar!/org/openqa/selenium/firefox/GeckoDriverService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/DesiredCapabilities.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.4.0/selenium-firefox-driver-3.4.0.jar!/org/openqa/selenium/firefox/FirefoxOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="423" column="0" lean-forward="false" selection-start-line="423" selection-start-column="0" selection-end-line="423" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.4.0/selenium-firefox-driver-3.4.0.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="380" column="0" lean-forward="false" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="25" column="142" lean-forward="false" selection-start-line="25" selection-start-column="142" selection-end-line="25" selection-end-column="142" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/ItemsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/DropDownMenuPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchitems/DropDownMenuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/SearchItems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/searchitems/DropDownMenuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchitems/SearchItemsWithDatabaseDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/data_sourse/DatabaseDataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/searchitems/SearchItemsWithDatabaseDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2048,107 +1364,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/search/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="80" />
+        <state relative-caret-position="29">
+          <caret line="25" column="142" lean-forward="false" selection-start-line="25" selection-start-column="142" selection-end-line="25" selection-end-column="142" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/searchitems/SearchItems.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="134">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#6161#6162#0" expanded="true" />
+            <element signature="e#6223#6224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="505" column="0" lean-forward="false" selection-start-line="505" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/DropDownMenuPage.java">
+    <entry file="file://$PROJECT_DIR$/Bestbuy/src/test/java/pagesection/AllpagesectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/reader/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/ItemsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/search/SearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="616" column="0" lean-forward="false" selection-start-line="616" selection-start-column="0" selection-end-line="616" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/text/StrBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="1027" column="0" lean-forward="false" selection-start-line="1027" selection-start-column="0" selection-end-line="1027" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="379" column="0" lean-forward="false" selection-start-line="379" selection-start-column="0" selection-end-line="379" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bestbuy/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Ebay/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2156,11 +1407,259 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bestbuy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bestbuy/src/test/resources/Bestbuytestrunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/test/java/metro/Metro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/cnn.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/metro/MetroPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/test/java/news/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/dailydeal/Dailydealpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/dailydeal/Dailydil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bestbuy/src/test/java/testsomething/Testany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/homepage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="55" column="133" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/politicspage/PoliticsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/moneypage/MoneyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/stylepage/StylePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/travelpage/TravelPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/videopage/VideoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/vrpage/VrPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/worldpage/WorldPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/sportspage/SportsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/video/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/vr/Vr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/travel/Travel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/style/Style.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/entertainmentpage/EntertainmentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/entertainment/Entertainment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2172,7 +1671,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/politics/Politics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/opinionpage/OpinionPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="99" lean-forward="false" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/opinion/Opinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/health/Health.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/healthpage/HealthPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/sports/Sports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/money/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/tech/Tech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/techpage/TechPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/us/Uspage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/us/Us.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/cnnTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/Ebaytestrunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />

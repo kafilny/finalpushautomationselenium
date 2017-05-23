@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PntAutomation.iml" filepath="$PROJECT_DIR$/PntAutomation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Upscalelearning/Upscalelearning.iml" filepath="$PROJECT_DIR$/Upscalelearning/Upscalelearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnn/cnn.iml" filepath="$PROJECT_DIR$/cnn/cnn.iml" />
     </modules>
   </component>
 </project>
