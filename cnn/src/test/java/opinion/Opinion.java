@@ -12,7 +12,7 @@ import utility.reporting.ApplicationLog;
 public class Opinion extends CommonAPI {
     @Test
     public void opinion(){
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-44 </a>");
         OpinionPage opinionpage= PageFactory.initElements(driver,OpinionPage.class);
         opinionpage.opinionnewspage();
     }

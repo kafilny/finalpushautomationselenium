@@ -12,10 +12,9 @@ import utility.reporting.ApplicationLog;
 public class Tech extends CommonAPI {
     @Test
     public void techpagenews() throws InterruptedException {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-48 </a>");
         TechPage techPage= PageFactory.initElements(driver,TechPage.class);
         techPage.technewspage();
         Thread.sleep(2000);
-
     }
 }

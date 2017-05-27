@@ -12,7 +12,7 @@ import utility.reporting.ApplicationLog;
 public class Style extends CommonAPI {
     @Test
     public void stylepagenews() {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-47 </a>");
         StylePage stylePage= PageFactory.initElements(driver,StylePage.class);
         stylePage.stylenewspage();
     }

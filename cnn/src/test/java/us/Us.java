@@ -11,7 +11,7 @@ import utility.reporting.ApplicationLog;
 public class Us extends CommonAPI {
     @Test
     public void usnewspage(){
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: us AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-38 </a>");
         Uspage uspage = PageFactory.initElements(driver, Uspage.class);
         uspage.usPageNews();
     }

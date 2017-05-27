@@ -19,7 +19,7 @@ public class SearchPage extends CommonAPI {
     @FindBy(how = How.CSS, using = "#twotabsearchtextbox")
     public static WebElement searchInput;
 
-    @FindBy(how = How.CSS, using = ".nav-input")
+    @FindBy(how = How.CSS, using = "#search-button")
     public static WebElement searchSubmit;
 
     public void searchFor(String item) {

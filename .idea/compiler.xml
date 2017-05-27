@@ -11,8 +11,10 @@
         <module name="cnn" />
         <module name="Ebay" />
         <module name="Generic" />
+        <module name="google" />
         <module name="NYP" />
         <module name="Upscalelearning" />
+        <module name="Walgreens" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,9 +23,11 @@
       <module name="cnn" target="1.8" />
       <module name="Ebay" target="1.8" />
       <module name="Generic" target="1.8" />
+      <module name="google" target="1.8" />
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
+      <module name="Walgreens" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

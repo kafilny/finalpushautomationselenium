@@ -38,6 +38,12 @@ public class CHomePage extends CommonAPI {
     public static WebElement sectionmenuvideo;
     @FindBy(how = How.CSS,using = "#nav > div.nav__container > div.nav-menu-links > a:nth-child(13)")
     public static WebElement sectionmenuvr;
+    @FindBy(how = How.CSS,using = "body > footer > div.l-footer__content > div > div.m-footer__bucket_group > ol.m-footer__bucket.m-footer__bucket__us > li > ol > li:nth-child(1) > a")
+    public static WebElement sectionmenuCrimejustice;
+
+    public static WebElement getSectionmenuCrimejustice() {
+        return sectionmenuCrimejustice;
+    }
 
     public static WebElement getSectionmenuus() {
 
@@ -95,7 +101,11 @@ public class CHomePage extends CommonAPI {
     public static WebElement getSectionmenuvr() {
         return sectionmenuvr;
     }
-
+    public void clickonCrimejustice() {
+        TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        getSectionmenuCrimejustice().click();
+    }
     public void clickonus(){
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
        getSectionmenuus().click();

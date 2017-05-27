@@ -12,7 +12,7 @@ import vrpage.VrPage;
 public class Vr extends CommonAPI {
     @Test
     public void vrpagenews() {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-51 </a>");
         VrPage vrPage= PageFactory.initElements(driver,VrPage.class);
         vrPage.vrnewspage();
     }

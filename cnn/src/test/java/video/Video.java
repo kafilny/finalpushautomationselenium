@@ -12,7 +12,7 @@ import videopage.VideoPage;
 public class Video extends CommonAPI {
     @Test
     public void videopagenews() {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-50 </a>");
         VideoPage videoPage= PageFactory.initElements(driver,VideoPage.class);
         videoPage.videonewspage();
     }

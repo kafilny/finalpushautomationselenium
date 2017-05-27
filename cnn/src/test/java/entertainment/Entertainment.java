@@ -12,7 +12,7 @@ import utility.reporting.ApplicationLog;
 public class Entertainment extends CommonAPI {
     @Test
     public void entertainmentpagenews() {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-41 </a>");
         EntertainmentPage entertainmentpage= PageFactory.initElements(driver,EntertainmentPage.class);
         entertainmentpage.entertainmentnewspage();
     }

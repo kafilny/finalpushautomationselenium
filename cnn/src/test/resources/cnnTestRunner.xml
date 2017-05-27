@@ -13,7 +13,7 @@
 
     <test name = "cnn Home">
         <classes>
-            <class name="us.Us"/>
+           <class name="us.Us"/>
             <class name="world.World"/>
             <class name="politics.Politics"/>
             <class name="money.Money"/>
@@ -21,11 +21,15 @@
             <class name="health.Health"/>
             <class name="entertainment.Entertainment"/>
             <class name="tech.Tech"/>
-            <class name="style.Style"/>
+           <class name="style.Style"/>
             <class name="travel.Travel"/>
             <class name="sports.Sports"/>
             <class name="video.Video"/>
             <class name="vr.Vr"/>
+            <class name="ushomepagetest.UsHomePageTest"/>
+            <!--<class name="crimejustice.CrimeJustice"/>-->
+            <class name="searchitems.SearchItems"/>
+
         </classes>
     </test>
 

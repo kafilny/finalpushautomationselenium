@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Walgreens" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Sierra"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="53.0"/>
+    <parameter name="url" value="https://www.walgreens.com"/>
+
+    <test name = "Walgreens Home">
+        <classes>
+           <class name="presrefil.PresRefilTest"/>
+            <class name="alltest.AllTest"/>
+            <class name="searchitems.SearchItems"/>
+
+
+        </classes>
+    </test>
+
+</suite>

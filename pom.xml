@@ -13,9 +13,10 @@
         <module>Amazon</module>
         <module>Upscalelearning</module>
         <module>NYP</module>
-        <module>Bestbuy</module>
         <module>Ebay</module>
         <module>cnn</module>
+        <module>google</module>
+        <module>Walgreens</module>
     </modules>
 
     <dependencyManagement>

@@ -12,7 +12,7 @@ import worldpage.WorldPage;
 public class World extends CommonAPI {
              @Test
                      public void worldpagenews() {
-                 ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+                 ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-39 </a>");
                  WorldPage worldPage= PageFactory.initElements(driver,WorldPage.class);
                  worldPage.worldnewspage();
              }

@@ -12,7 +12,7 @@ import utility.reporting.ApplicationLog;
 public class Sports extends CommonAPI {
     @Test
     public void sportspagenews() throws InterruptedException {
-        ApplicationLog.epicLogger("Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>");
+        ApplicationLog.epicLogger("Epic: cnn AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-46 </a>");
         SportsPage sportsPage= PageFactory.initElements(driver,SportsPage.class);
         sportsPage.sportsnewspage();
         //Thread.sleep(2000);
